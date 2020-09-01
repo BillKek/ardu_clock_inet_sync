@@ -1,5 +1,5 @@
 # ardu_clock_inet_sync
-clock on arduino mega (based on 7 segments indicator) with esp8266 time synchronization with a time server (wifi, udp to port 123)
+clock on arduino mega (based on 7 segments indicator) with esp8266 time synchronization from a time server (wifi, udp to port 123)
 
 # used libraries
 Used ESP8266 library (integrated to this project with little modification). Library created by Stan Lee(Lizq@iteadstudio.com) 2014/10/8
